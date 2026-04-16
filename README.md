@@ -1,4 +1,9 @@
-## Hi Kailash Aghav 👉
+Hi, I'm Kailash 👋  
+A motivated B.Tech student and aspiring Data Scientist.  
+I specialize in Machine Learning, Deep Learning, and Computer 
+🎯 Goal: To build impactful AI solutions for real-world problems  
+🚀 Always learning new technologies
+💡 Turning ideas into AI-powered solution
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aghavkailash4@gmail.com) 
